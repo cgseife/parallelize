@@ -1,6 +1,6 @@
 ############
 #
-# Parallelize: a module for quick parallel execution of an arbitrary function
+# Parallelize: a module for simple parallel execution of an arbitrary function
 #
 # v 1.0, 10/30/2020
 #

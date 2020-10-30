@@ -1,4 +1,4 @@
-Parallelize: a Python (3.x) module for simple implementation of parallel execution of an arbitrary function
+Parallelize: a Python (3.x) module for simple implementation of parallel (multiprocess) execution of an arbitrary function
 
 Charles Seife, cs129@nyu.edu
 
